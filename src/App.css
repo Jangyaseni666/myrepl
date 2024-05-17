@@ -1,0 +1,11 @@
+.playground{
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.editor-container{
+    min-height: 60vh;
+    display: flex;
+}
